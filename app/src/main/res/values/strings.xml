@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">COACH</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="back">Back</string>
+    <string name="bi_ceps">Bi Ceps</string>
+    <string name="tri_ceps">Tri Ceps</string>
+</resources>
